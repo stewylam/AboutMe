@@ -1,0 +1,116 @@
+body {
+	background-color: #F3D7A1;
+	margin: 50px;
+}
+
+.photo {
+	width: 250px;
+	border-color: #A43E32;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 25px;
+	float: left;
+	display: inline-block;
+	margin-left: 70px;
+
+}
+
+/* oranje kolom */
+ .profile {
+	width: 1000px;
+	height: 400px;
+	background-color: #FEA76A;
+	font-family: Roboto Slab, tahoma;
+	font-size: 15px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #A43E32;
+	border-radius: 25px;
+	padding: 25px;
+	text-align: center;
+}
+
+
+
+h1 {
+	font-family: permanent marker, times, serif;
+	color: black;
+	font-size: 50px;
+	display: block;
+}
+
+.click {
+	font-weight: bold;
+	text-align: center;
+	padding-right: 100px;
+	padding: 25px;
+
+}
+
+h2, p{
+	color: #999
+	margin: 10px 0;
+	text-align: center;
+}
+
+.service {
+	float: left;
+	background: #eee;
+	width: 29%
+	margin: 1%;
+	padding: 1%;
+	height: 140px;
+}
+
+
+h {
+	font-size: 25px;
+	font-family: roboto slab, times;
+	font-weight: bold;
+	display: block;
+}
+
+
+.background {
+	margin: 20px 20px 20px 100px;
+	width: 220px;
+	height: 200px;
+	border-style: solid;
+	border-color: rgb(254, 167, 106);
+	border-width: 5px;
+	border-radius: 80%;
+	overflow: hidden;
+	display: inline-block;
+}
+
+.gallery {
+	margin: 20px 20px 20px 100px;
+	width: 220px;
+	height: 200px;
+	border-style: solid;
+	border-color: rgb(254, 167, 106);
+	border-width: 5px;
+	border-radius: 80%;
+	display: inline-block;
+}
+
+.contact{
+	margin: 20px 20px 20px 100px;
+	width: 220px;
+	height: 200px;
+	border-style: solid;
+	border-color: rgb(254, 167, 106);
+	border-width: 5px;
+	border-radius: 80%;
+	overflow: hidden;
+	display: inline-block;
+}
+
+
+.footer {
+	font-family: Roboto Slab, times;
+	font-size: 10px;
+	display: block;
+}
+
+

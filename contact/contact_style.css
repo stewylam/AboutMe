@@ -1,0 +1,82 @@
+body {
+	width: 100%;
+	margin: auto;
+	background: #F3D7A1;
+
+}
+
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.header {
+	background-color: #A43E32;
+	width: 100%;
+	top: 0;
+	position: fixed;
+}	
+
+.logo {
+	float: left;
+	font-family: Permanent Marker;
+	font-size: 15px;
+}
+
+
+a {
+	text-decoration: none;
+	color: #fff;
+	font-family: roboto slab;
+}
+
+
+li {
+	list-style: none;
+	float: left;
+	margin-left: 15px;
+	padding-top: 20px;
+}
+
+
+.nav {
+	float: right;
+}
+
+.content {
+	margin-top: 125px;
+	font-family: roboto slab;
+	text-align: center;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #A43E32;
+	border-radius: 20px;
+	background-color: rgb(254, 167, 106);
+}
+
+.contact {
+	color: #000;
+	font-size: 40px;
+}
+
+p {
+	color: #000;
+}
+
+.email {
+	font-weight: bold;
+}
+
+img {
+	width: 80px;
+	margin: 1%;
+	padding-bottom: 30px;
+}
+
+.footer {
+	font-family: Roboto Slab, times;
+	font-size: 10px;
+	text-align: right;
+	color: #000000;
+	
+}
